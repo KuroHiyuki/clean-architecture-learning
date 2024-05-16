@@ -1,0 +1,11 @@
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\bin\Debug\net8.0\TechStore.Presentation.deps.json
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\bin\Debug\net8.0\TechStore.Presentation.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\bin\Debug\net8.0\TechStore.Presentation.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.AssemblyInfoInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.AssemblyInfo.cs
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.csproj.CoreCompileInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\refint\TechStore.Presentation.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\ref\TechStore.Presentation.dll

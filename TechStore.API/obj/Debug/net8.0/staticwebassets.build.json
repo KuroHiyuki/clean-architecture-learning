@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ARmZsuXDUdknDk/ptuUne5jVtmgXE1jDvHg2Y4ADL0g=",
+  "Source": "TechStore.API",
+  "BasePath": "_content/TechStore.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

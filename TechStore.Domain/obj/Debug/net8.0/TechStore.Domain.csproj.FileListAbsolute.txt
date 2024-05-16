@@ -1,0 +1,12 @@
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\bin\Debug\net8.0\TechStore.Domain.deps.json
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\bin\Debug\net8.0\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\bin\Debug\net8.0\TechStore.Domain.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.AssemblyInfoInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.AssemblyInfo.cs
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.csproj.CoreCompileInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\refint\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\ref\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.csproj.AssemblyReference.cache

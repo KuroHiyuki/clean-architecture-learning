@@ -1,0 +1,15 @@
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\bin\Debug\net8.0\TechStore.Application.deps.json
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\bin\Debug\net8.0\TechStore.Application.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\bin\Debug\net8.0\TechStore.Application.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\bin\Debug\net8.0\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\bin\Debug\net8.0\TechStore.Domain.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.csproj.AssemblyReference.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.AssemblyInfoInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.AssemblyInfo.cs
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.csproj.CoreCompileInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStor.25F801B2.Up2Date
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\refint\TechStore.Application.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\TechStore.Application.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Application\obj\Debug\net8.0\ref\TechStore.Application.dll

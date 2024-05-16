@@ -1,0 +1,17 @@
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Infrastructure.deps.json
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Infrastructure.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Infrastructure.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Application.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Domain.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Application.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\bin\Debug\net8.0\TechStore.Domain.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.csproj.AssemblyReference.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.AssemblyInfoInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.AssemblyInfo.cs
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStor.D63A1535.Up2Date
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\refint\TechStore.Infrastructure.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.pdb
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\ref\TechStore.Infrastructure.dll
