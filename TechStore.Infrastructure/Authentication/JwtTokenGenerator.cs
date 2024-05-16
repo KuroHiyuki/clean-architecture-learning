@@ -21,7 +21,6 @@ namespace TechStore.Infrastructure.Authentication
         }
         public string GenerateToken(User user)
         {
-            //var configuation
             var siginingCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(
                     Encoding.UTF8.GetBytes(_jwtSetting.Secret!)),

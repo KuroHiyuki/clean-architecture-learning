@@ -1,4 +1,8 @@
-﻿using Microsoft.Extensions.DependencyInjection;
+﻿using FluentValidation;
+using MediatR;
+using Microsoft.Extensions.DependencyInjection;
+using System.Reflection;
+using TechStore.Application.Common.Behaviors;
 
 namespace TechStore.Application
 {
@@ -10,6 +14,8 @@ namespace TechStore.Application
             //services.AddScoped<IAuthenticationCommandService, AuthenthicationCommandService>();
 
             services.AddMediatR(options => options.RegisterServicesFromAssembly(typeof(DependencyInjection).Assembly));
+            services.AddScoped(typeof(IPipelineBehavior<,>), typeof(ValidationBehavior<,>));
+            services.AddValidatorsFromAssembly(Assembly.GetExecutingAssembly());
 
             return services;
         }
