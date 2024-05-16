@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{682EE768-2097-4C55-A9A9-F72EB7453356}|TechStore.Domain\\TechStore.Domain.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.domain\\valueobjects\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{682EE768-2097-4C55-A9A9-F72EB7453356}|TechStore.Domain\\TechStore.Domain.csproj|solutionrelative:techstore.domain\\valueobjects\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{682EE768-2097-4C55-A9A9-F72EB7453356}|TechStore.Domain\\TechStore.Domain.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.domain\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{682EE768-2097-4C55-A9A9-F72EB7453356}|TechStore.Domain\\TechStore.Domain.csproj|solutionrelative:techstore.domain\\valueobjects\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -91,19 +95,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Domain\\ValueObjects\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "TechStore.Domain\\ValueObjects\\BaseEntity.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Domain\\ValueObjects\\BaseEntity.cs",
+              "RelativeToolTip": "TechStore.Domain\\ValueObjects\\BaseEntity.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAUwBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T08:04:44.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ValueObject.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Domain\\ValueObjects\\ValueObject.cs",
               "RelativeDocumentMoniker": "TechStore.Domain\\ValueObjects\\ValueObject.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Domain\\ValueObjects\\ValueObject.cs*",
-              "RelativeToolTip": "TechStore.Domain\\ValueObjects\\ValueObject.cs*",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwB4AAAAdAAAA",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Domain\\ValueObjects\\ValueObject.cs",
+              "RelativeToolTip": "TechStore.Domain\\ValueObjects\\ValueObject.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T07:56:32.266Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "APIController.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\APIController.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Controllers\\APIController.cs",
@@ -116,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ValidationBehavior.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Common\\Behaviors\\ValidationBehavior.cs",
               "RelativeDocumentMoniker": "TechStore.Application\\Common\\Behaviors\\ValidationBehavior.cs",
@@ -129,7 +146,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JwtTokenGenerator.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
               "RelativeDocumentMoniker": "TechStore.Infrastructure\\Authentication\\JwtTokenGenerator.cs",
@@ -142,7 +159,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Infrastructure\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TechStore.Infrastructure\\DependencyInjection.cs",
@@ -155,12 +172,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Program.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Program.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Program.cs*",
-              "RelativeToolTip": "TechStore.API\\Program.cs*",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Program.cs",
+              "RelativeToolTip": "TechStore.API\\Program.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T04:09:59.017Z",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "AuthenticationController.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\AuthenticationController.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Controllers\\AuthenticationController.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "RegisterCommandValidator.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandValidator.cs",
               "RelativeDocumentMoniker": "TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandValidator.cs",
@@ -194,7 +211,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Infrastructure\\Persistence\\UserRepository.cs",
               "RelativeDocumentMoniker": "TechStore.Infrastructure\\Persistence\\UserRepository.cs",
@@ -207,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TechStore.Application\\DependencyInjection.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "RegisterRequest.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Presentation\\Authentication\\RegisterRequest.cs",
               "RelativeDocumentMoniker": "TechStore.Presentation\\Authentication\\RegisterRequest.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TechStore.API\\DependencyInjection.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "TechStore.API",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\TechStore.API.csproj",
               "RelativeDocumentMoniker": "TechStore.API\\TechStore.API.csproj",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "DateTimeProvider.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Infrastructure\\Service\\DateTimeProvider.cs",
               "RelativeDocumentMoniker": "TechStore.Infrastructure\\Service\\DateTimeProvider.cs",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Presentation\\Authentication\\LoginRequest.cs",
               "RelativeDocumentMoniker": "TechStore.Presentation\\Authentication\\LoginRequest.cs",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "AuthenticationResponse.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Presentation\\Authentication\\AuthenticationResponse.cs",
               "RelativeDocumentMoniker": "TechStore.Presentation\\Authentication\\AuthenticationResponse.cs",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "TechStore.Infrastructure",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Infrastructure\\TechStore.Infrastructure.csproj",
               "RelativeDocumentMoniker": "TechStore.Infrastructure\\TechStore.Infrastructure.csproj",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AuthenticationMappingConfig.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\AuthenticationMappingConfig.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Common\\AuthenticationMappingConfig.cs",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "DependencyInjection.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\DependencyInjection.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Common\\DependencyInjection.cs",
