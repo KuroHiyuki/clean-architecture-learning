@@ -62,3 +62,6 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\obj\Debug\net8.0\TechStor
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll

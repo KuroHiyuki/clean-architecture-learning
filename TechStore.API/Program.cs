@@ -28,7 +28,10 @@ if (app.Environment.IsDevelopment())
 
 app.UseExceptionHandler("/errorHandle");
 //app.UseMiddleware<ErrorMiddlewareHandle>();
+
 app.UseHttpsRedirection();
+
+app.UseAuthentication();
 
 app.UseAuthorization();
 
