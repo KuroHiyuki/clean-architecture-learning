@@ -3,16 +3,13 @@ using MediatR;
 using TechStore.Application.Common.Interfaces.Authentication;
 using TechStore.Application.Common.Interfaces.Persistence;
 using TechStore.Application.Services.Authentication;
-using TechStore.Application.Services.Authentication.Commands;
-using TechStore.Application.Services.Authentication.Queries;
 using TechStore.Domain.Entities;
-using static System.Runtime.InteropServices.JavaScript.JSType;
 using TechStore.Domain.Errors;
 
 namespace TechStore.Application.Authentication.Register.Commands
 {
     internal class RegisterCommandHandler(
-        IJwtTokenGenerator _jwtTokenGenerator, 
+        IJwtTokenGenerator _jwtTokenGenerator,
         IUserRepository _userRepository) : IRequestHandler<RegisterCommand, ErrorOr<AuthResult>>
     {
         //private readonly IJwtTokenGenerator _jwtTokenGenerator;

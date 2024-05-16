@@ -1,11 +1,5 @@
-using Microsoft.AspNetCore.Mvc.Infrastructure;
-using System.Runtime.CompilerServices;
 using TechStore.API;
-using TechStore.API.Error;
-using TechStore.API.Filter;
-using TechStore.API.Middleware;
 using TechStore.Application;
-using TechStore.Application.Common.Interfaces.Authentication;
 using TechStore.Infrastructure;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -25,7 +19,7 @@ var app = builder.Build();
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
-    app.UseSwagger(); 
+    app.UseSwagger();
     app.UseSwaggerUI(c =>
     {
     });

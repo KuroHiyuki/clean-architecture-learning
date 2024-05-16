@@ -1,12 +1,11 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using TechStore.Application.Common.Interfaces.Authentication;
 using TechStore.Application.Common.Interfaces.DateProvider;
-using TechStore.Infrastructure.Authentication;
-using TechStore.Infrastructure.Service;
-using Microsoft.Extensions.Configuration;
 using TechStore.Application.Common.Interfaces.Persistence;
+using TechStore.Infrastructure.Authentication;
 using TechStore.Infrastructure.Persistence;
+using TechStore.Infrastructure.Service;
 
 namespace TechStore.Infrastructure
 {
@@ -18,9 +17,9 @@ namespace TechStore.Infrastructure
         {
             services.Configure<JwtSetting>(configuration.GetSection(JwtSetting.SectionName));
             services.AddSingleton<IJwtTokenGenerator, JwtTokenGenerator>();
-            services.AddSingleton<IDateTimeProvider,DateTimProvider>();
+            services.AddSingleton<IDateTimeProvider, DateTimProvider>();
 
-            services.AddScoped<IUserRepository, UserRepository>();    
+            services.AddScoped<IUserRepository, UserRepository>();
             return services;
         }
     }

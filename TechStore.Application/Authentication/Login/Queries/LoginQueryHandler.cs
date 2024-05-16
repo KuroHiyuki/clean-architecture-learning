@@ -1,16 +1,15 @@
 ﻿using ErrorOr;
 using MediatR;
-using TechStore.Domain.Errors;
 using TechStore.Application.Common.Interfaces.Authentication;
 using TechStore.Application.Common.Interfaces.Persistence;
 using TechStore.Application.Services.Authentication;
 using TechStore.Domain.Entities;
-using static System.Runtime.InteropServices.JavaScript.JSType;
+using TechStore.Domain.Errors;
 
 namespace TechStore.Application.Authentication.Login.Queries
 {
     public class LoginQueryHandler(
-        IJwtTokenGenerator _jwtTokenGenerator, 
+        IJwtTokenGenerator _jwtTokenGenerator,
         IUserRepository _userRepository) : IRequestHandler<LoginQuery, ErrorOr<AuthResult>>
     {
         //private readonly IJwtTokenGenerator _jwtTokenGenerator;

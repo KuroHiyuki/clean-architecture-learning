@@ -1,10 +1,6 @@
 ﻿using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
-using System;
-using System.Collections.Generic;
 using System.IdentityModel.Tokens.Jwt;
-using System.Linq;
-using System.Net.WebSockets;
 using System.Security.Claims;
 using System.Text;
 using TechStore.Application.Common.Interfaces.Authentication;
@@ -18,7 +14,7 @@ namespace TechStore.Infrastructure.Authentication
         private readonly IDateTimeProvider _dateTimeProvider;
         private readonly JwtSetting _jwtSetting;
 
-        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider,IOptions<JwtSetting> jwtSetting) 
+        public JwtTokenGenerator(IDateTimeProvider dateTimeProvider, IOptions<JwtSetting> jwtSetting)
         {
             _dateTimeProvider = dateTimeProvider;
             _jwtSetting = jwtSetting.Value;

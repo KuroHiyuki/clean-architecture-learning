@@ -1,6 +1,4 @@
 ﻿//using Newtonsoft.Json;
-using System.Net;
-
 namespace TechStore.API.Middleware
 {
     public class ErrorMiddlewareHandle(RequestDelegate _next)

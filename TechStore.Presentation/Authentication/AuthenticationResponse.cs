@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TechStore.Presentation.Authentication
+﻿namespace TechStore.Presentation.Authentication
 {
     public record AuthenticationResponse(
         Guid Id,
@@ -13,5 +7,5 @@ namespace TechStore.Presentation.Authentication
         string Email,
         string Token
     );
-    
+
 }
