@@ -25,7 +25,7 @@ namespace TechStore.Application.Authentication.Register.Commands
         //}
         public async Task<ErrorOr<AuthResult>> Handle(RegisterCommand command, CancellationToken cancellationToken)
         {
-
+            await Task.CompletedTask;
             if (_userRepository.GetByEmail(command.Email) is not null)
             {
                 return Errors.User.EmailExists;

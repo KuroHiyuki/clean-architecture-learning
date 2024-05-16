@@ -97,3 +97,4 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Tests\obj\Debug\net8.0\refint
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Tests\obj\Debug\net8.0\TechStore.Tests.pdb
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Tests\obj\Debug\net8.0\TechStore.Tests.genruntimeconfig.cache
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Tests\obj\Debug\net8.0\ref\TechStore.Tests.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Tests\obj\Debug\net8.0\TechStore.Tests.sourcelink.json

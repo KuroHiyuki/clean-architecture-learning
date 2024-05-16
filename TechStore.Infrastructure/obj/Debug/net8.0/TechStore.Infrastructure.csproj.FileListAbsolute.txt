@@ -15,3 +15,4 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\refint\TechStore.Infrastructure.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.pdb
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\ref\TechStore.Infrastructure.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Infrastructure\obj\Debug\net8.0\TechStore.Infrastructure.sourcelink.json

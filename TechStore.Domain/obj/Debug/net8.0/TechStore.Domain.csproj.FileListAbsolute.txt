@@ -10,3 +10,4 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\refin
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.pdb
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\ref\TechStore.Domain.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.csproj.AssemblyReference.cache
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Domain\obj\Debug\net8.0\TechStore.Domain.sourcelink.json

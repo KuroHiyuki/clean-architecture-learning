@@ -8,45 +8,34 @@ using TechStore.Application.Services.Authentication.Queries;
 using MediatR;
 using TechStore.Application.Authentication.Register.Commands;
 using TechStore.Application.Authentication.Login.Queries;
+using MapsterMapper;
 
 namespace TechStore.API.Controllers
 {
     [Route("auth/[controller]")]
     public class AuthenticationController : APIController
     {
+        private readonly IMapper _mapper;
         private readonly ISender _mediator;
 
-        public AuthenticationController(ISender mediator)
+        public AuthenticationController(ISender mediator,IMapper mapper)
         {
+            _mapper = mapper;
             _mediator = mediator;
         }
         [HttpPost("Register")]
         public async Task<IActionResult> Register(RegisterRequest request)
         {
-            var command = new RegisterCommand(request.FirstName,
-                request.LastName,
-                request.Email,
-                request.Password);
+            var command = _mapper.Map<RegisterCommand>(request);
             ErrorOr<AuthResult> authResult = await _mediator.Send(command);
             return authResult.Match(
-                authResult => Ok(MapAuthResults(authResult)),
+                authResult => Ok(_mapper.Map<AuthenticationResponse>(authResult)),
                 errors => Problem(errors));
-        }
-
-        private static AuthenticationResponse MapAuthResults(AuthResult authResult)
-        {
-            return new AuthenticationResponse(
-                    authResult.User.Id,
-                    authResult.User.FirstName!,
-                    authResult.User.LastName!,
-                    authResult.User.Email!,
-                    authResult.Token
-                    );
         }
         [HttpPost("Login")]
         public async Task<IActionResult> Login(LoginRequest request)
         {
-            var query = new LoginQuery(request.Email, request.Password);
+            var query = _mapper.Map<LoginQuery>(request);
 
             ErrorOr<AuthResult> authResult = await _mediator.Send(query);
             if (authResult.IsError && authResult.FirstError == Errors.Authentication.InvalidCredentials)
@@ -54,7 +43,7 @@ namespace TechStore.API.Controllers
                 return Problem(statusCode:StatusCodes.Status401Unauthorized, title: authResult.FirstError.Description);
             }
             return authResult.Match(
-                authResult => Ok(MapAuthResults(authResult)),
+                authResult => Ok(_mapper.Map<AuthenticationResponse>(authResult)),
                 errors => Problem(errors));
         }
     }

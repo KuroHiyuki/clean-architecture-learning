@@ -3,12 +3,52 @@
   "WorkspaceRootPath": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\authentication\\register\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|solutionrelative:techstore.application\\authentication\\register\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\authentication\\login\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|solutionrelative:techstore.application\\authentication\\login\\queries\\loginqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\authentication\\login\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|solutionrelative:techstore.application\\authentication\\login\\queries\\loginquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\common\\authenticationmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\common\\authenticationmappingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\common\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\techstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\techstore.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\controllers\\authenticationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\error\\customproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\error\\customproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\filter\\errorhandlingfiltermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\filter\\errorhandlingfiltermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\middleware\\errormiddlewarehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\middleware\\errormiddlewarehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\services\\authentication\\queries\\authenticationqueryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,22 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\common\\errors\\iexceptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|solutionrelative:techstore.application\\common\\errors\\iexceptionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.application\\authentication\\register\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9668E22B-B769-4F29-8AC3-CB8E921AE00B}|TechStore.Application\\TechStore.Application.csproj|solutionrelative:techstore.application\\authentication\\register\\commands\\registercommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\error\\customproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\error\\customproblemdetailsfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\middleware\\errormiddlewarehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\middleware\\errormiddlewarehandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|c:\\disk c\\skill\\coding\\dot net\\techstore\\techstore.api\\filter\\errorhandlingfiltermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{616B3271-B534-4BC6-8C05-2683B9C72525}|TechStore.API\\TechStore.API.csproj|solutionrelative:techstore.api\\filter\\errorhandlingfiltermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,80 +74,137 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginQuery.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Login\\Queries\\LoginQuery.cs",
+              "RelativeDocumentMoniker": "TechStore.Application\\Authentication\\Login\\Queries\\LoginQuery.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Login\\Queries\\LoginQuery.cs",
+              "RelativeToolTip": "TechStore.Application\\Authentication\\Login\\Queries\\LoginQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:48:46.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationMappingConfig.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\AuthenticationMappingConfig.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Common\\AuthenticationMappingConfig.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\AuthenticationMappingConfig.cs",
+              "RelativeToolTip": "TechStore.API\\Common\\AuthenticationMappingConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:32:43.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AuthenticationController.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\AuthenticationController.cs",
-              "RelativeDocumentMoniker": "TechStore.API\\Controllers\\AuthenticationController.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\AuthenticationController.cs",
-              "RelativeToolTip": "TechStore.API\\Controllers\\AuthenticationController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAzwBIAAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:45:09.211Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IExceptionService.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Common\\Errors\\IExceptionService.cs",
-              "RelativeDocumentMoniker": "TechStore.Application\\Common\\Errors\\IExceptionService.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Common\\Errors\\IExceptionService.cs",
-              "RelativeToolTip": "TechStore.Application\\Common\\Errors\\IExceptionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:39:30.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterCommandHandler.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
-              "RelativeDocumentMoniker": "TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
-              "RelativeToolTip": "TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAABEAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:38:53.798Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "LoginQueryHandler.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Login\\Queries\\LoginQueryHandler.cs",
               "RelativeDocumentMoniker": "TechStore.Application\\Authentication\\Login\\Queries\\LoginQueryHandler.cs",
               "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Login\\Queries\\LoginQueryHandler.cs",
               "RelativeToolTip": "TechStore.Application\\Authentication\\Login\\Queries\\LoginQueryHandler.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAgwCMAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T17:16:08.22Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AuthenticationCommandService.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
-              "RelativeDocumentMoniker": "TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
-              "RelativeToolTip": "TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAywA8AAAAPAAAA",
+              "DocumentIndex": 0,
+              "Title": "RegisterCommandHandler.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
+              "RelativeDocumentMoniker": "TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
+              "RelativeToolTip": "TechStore.Application\\Authentication\\Register\\Commands\\RegisterCommandHandler.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:38:27.375Z"
+              "WhenOpened": "2024-05-15T17:38:53.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AuthenticationQueryService.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
-              "RelativeDocumentMoniker": "TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
-              "RelativeToolTip": "TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAewBAAAAAPAAAA",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Common\\DependencyInjection.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Common\\DependencyInjection.cs",
+              "RelativeToolTip": "TechStore.API\\Common\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:38:39.181Z"
+              "WhenOpened": "2024-05-16T03:36:14.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\DependencyInjection.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\DependencyInjection.cs",
+              "RelativeToolTip": "TechStore.API\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:42:44.042Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Program.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Program.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Program.cs",
+              "RelativeToolTip": "TechStore.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T03:43:28.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ErrorHandlingFilterMiddleware.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
+              "RelativeToolTip": "TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAzwAgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:39:19.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TechStore.API",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\TechStore.API.csproj",
+              "RelativeDocumentMoniker": "TechStore.API\\TechStore.API.csproj",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\TechStore.API.csproj",
+              "RelativeToolTip": "TechStore.API\\TechStore.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-16T03:26:29.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorMiddlewareHandle.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
+              "RelativeToolTip": "TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:39:32.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "CustomProblemDetailsFactory.cs",
               "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Error\\CustomProblemDetailsFactory.cs",
               "RelativeDocumentMoniker": "TechStore.API\\Error\\CustomProblemDetailsFactory.cs",
@@ -131,31 +212,60 @@
               "RelativeToolTip": "TechStore.API\\Error\\CustomProblemDetailsFactory.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAABAAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:41:42.54Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ErrorMiddlewareHandle.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
-              "RelativeDocumentMoniker": "TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
-              "RelativeToolTip": "TechStore.API\\Middleware\\ErrorMiddlewareHandle.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:39:32.823Z"
+              "WhenOpened": "2024-05-15T17:41:42.54Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ErrorHandlingFilterMiddleware.cs",
-              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
-              "RelativeDocumentMoniker": "TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
-              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
-              "RelativeToolTip": "TechStore.API\\Filter\\ErrorHandlingFilterMiddleware.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAzwAsAAAAyAAAA",
+              "Title": "AuthenticationController.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeDocumentMoniker": "TechStore.API\\Controllers\\AuthenticationController.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.API\\Controllers\\AuthenticationController.cs",
+              "RelativeToolTip": "TechStore.API\\Controllers\\AuthenticationController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAqwCAAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T17:39:19.48Z"
+              "WhenOpened": "2024-05-15T17:45:09.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IExceptionService.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Common\\Errors\\IExceptionService.cs",
+              "RelativeDocumentMoniker": "TechStore.Application\\Common\\Errors\\IExceptionService.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Common\\Errors\\IExceptionService.cs",
+              "RelativeToolTip": "TechStore.Application\\Common\\Errors\\IExceptionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:39:30.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AuthenticationCommandService.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "RelativeDocumentMoniker": "TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "RelativeToolTip": "TechStore.Application\\Services\\Authentication\\Commands\\AuthenticationCommandService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:38:27.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthenticationQueryService.cs",
+              "DocumentMoniker": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "RelativeDocumentMoniker": "TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "ToolTip": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "RelativeToolTip": "TechStore.Application\\Services\\Authentication\\Queries\\AuthenticationQueryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T17:38:39.181Z",
+              "EditorCaption": ""
             }
           ]
         }

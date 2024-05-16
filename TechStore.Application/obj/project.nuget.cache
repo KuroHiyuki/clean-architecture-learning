@@ -1,10 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6ijBkWPavtNQKxnvqib+MBoy/f5FxAGp+JgpFrOJBnUK0iPlNt0Awuvy1C4m9Rr2ioKgUWvZ1795In+KB+tKBA==",
+  "dgSpecHash": "XgcNErkSc8HdvBn0Vd+KiPpptcMtSblj3yiptp6C13YoCLQX6/SPrB5wSzZIUtQXD1m+Ia+AqVBZ6PRHcvSOMA==",
   "success": true,
   "projectFilePath": "C:\\Disk C\\Skill\\Coding\\Dot NET\\TechStore\\TechStore.Application\\TechStore.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\PHUONG\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
+    "C:\\Users\\PHUONG\\.nuget\\packages\\fluentvalidation\\11.9.1\\fluentvalidation.11.9.1.nupkg.sha512",
+    "C:\\Users\\PHUONG\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\PHUONG\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\PHUONG\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\PHUONG\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\PHUONG\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",

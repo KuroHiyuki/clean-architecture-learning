@@ -9,3 +9,4 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\refint\TechStore.Presentation.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.pdb
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\ref\TechStore.Presentation.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.Presentation\obj\Debug\net8.0\TechStore.Presentation.sourcelink.json

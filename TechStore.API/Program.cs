@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Mvc.Infrastructure;
 using System.Runtime.CompilerServices;
+using TechStore.API;
 using TechStore.API.Error;
 using TechStore.API.Filter;
 using TechStore.API.Middleware;
@@ -12,15 +13,13 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services
+    .AddPresentation()
     .AddApplication()
     .AddInfrastructure(builder.Configuration);
-//builder.Services.AddScoped<IAuthService, AuthService>();
+
+
 //builder.Services.AddControllers(options => options.Filters.Add<ErrorHandlingFilterMiddleware>());
-builder.Services.AddControllers();
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
-builder.Services.AddSingleton<ProblemDetailsFactory, CustomProblemDetailsFactory>();
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

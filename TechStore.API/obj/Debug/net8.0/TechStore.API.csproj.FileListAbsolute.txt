@@ -40,9 +40,6 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsof
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\TechStore.Presentation.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\TechStore.Presentation.pdb
-C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.DotNet.PlatformAbstractions.dll
-C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
-C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
@@ -51,3 +48,17 @@ C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.I
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\ErrorOr.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\MediatR.dll
 C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Mapster.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Mapster.Core.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Mapster.DependencyInjection.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.Mvc.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.Razor.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.Helpers.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.WebPages.Deployment.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.WebPages.Razor.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\System.Web.WebPages.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\Microsoft.Web.Infrastructure.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\obj\Debug\net8.0\TechStore.API.sourcelink.json
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Disk C\Skill\Coding\Dot NET\TechStore\TechStore.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
